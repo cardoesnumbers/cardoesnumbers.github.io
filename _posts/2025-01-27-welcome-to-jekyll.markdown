@@ -1,18 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "The world in 2023"
 date:   2025-01-27 21:30:53 +0100
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+A quick exercise to test embedding the resulting dashboard from Tableau Public on this website (Note from Jan 2025: this doesnt work as Github Pages is static)
 
-Jekyll requires blog post files to be named according to the following format:
+This is a dataset with world indicators. I combined it with a subregions file thinking it would be more interesting than just having the continents as filters.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I wanted to check how some of my preconceptions would hold. The relation between education vs fertility rates, or overall access to health and life expectancy.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+Link and current embedding below. Check the “full screen” option for better results 🙂
 
 {% highlight ruby %}
 def print_hi(name)
@@ -22,8 +20,4 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
