@@ -1,17 +1,7 @@
 ---
-id: 8
-title: 'Spotis 1.2 million songs EDA'
-date: '2023-07-16T11:51:11+00:00'
-author: urtechoc
 layout: post
-guid: 'https://cardoesnumbers.se/?p=8'
-permalink: /2023/07/16/1-2-million-songs-eda/
-footnotes:
-    - ''
-image: 'http://cardoesnumbers.se/wp-content/uploads/2023/07/disque-vinyl-fond-noir.jpg'
-categories:
-    - EDA
-    - 'Jupyter Notebook'
+title: "Spotis 1.2 million songs EDA"
+date: 2023-07-16
 ---
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex">I found this set also on Kaggle, I thought it could be fun to see how songs have changed (or not) throughout the years, mainly when it comes to length and also why most songs remain between 3-5 mins long.
