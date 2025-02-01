@@ -21,7 +21,7 @@
 title: df.portfolio()
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Data analytics and other stuff.
+  Data analytics and things of that sort
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cardoesnumbers
