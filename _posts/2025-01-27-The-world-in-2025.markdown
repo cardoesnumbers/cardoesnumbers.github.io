@@ -10,7 +10,7 @@ This is a dataset with world indicators. I combined it with a subregions file be
 
 I wanted to check how some of my preconceptions would hold, such as the relation between education and fertility rates or overall access to health and life expectancy.
 
-[![Link to the Tableau Public dashboard](assets/images/link-to-tableau-public-world.png)](https://public.tableau.com/views/WorldIndicators2023/world_2023?:language=sv-SE&:display_count=n&:origin=viz_share_link)
+[![Link to the Tableau Public dashboard](/assets/images/link-to-tableau-public-world.png)](https://public.tableau.com/views/WorldIndicators2023/world_2023?:language=sv-SE&:display_count=n&:origin=viz_share_link)
 
 And further analysis with pandas / [nbviewer backup here](https://nbviewer.org/github/cardoesnumbers/cardoesnumbers.github.io/blob/main/assets/notebooks/song_length.ipynb)
 
