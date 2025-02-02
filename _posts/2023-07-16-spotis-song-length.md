@@ -8,6 +8,6 @@ I also found this set on [Kaggle](https://www.kaggle.com/datasets/rodolfofiguero
 
 There is an explanation for this that brings us back to the early 20th century, you can read it [here](https://www.mentalfloss.com/article/655929/why-are-pop-songs-roughly-three-minutes-long).
 
-Here is a brief exploration on song's duration through time.
+Here is a brief exploration on song's duration through time / [nbviewer backup here](https://nbviewer.org/github/cardoesnumbers/cardoesnumbers.github.io/blob/main/assets/notebooks/song_length.ipynb)
 
  <iframe src="/assets/notebooks/song_length.html" width="100%" height="600px"></iframe> 
