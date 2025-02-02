@@ -4,11 +4,12 @@ title:  "The world in 2023"
 date:   2025-01-27 21:30:53 +0100
 categories: jekyll update
 ---
-A quick exercise to test embedding the resulting dashboard from Tableau Public on this website (Note from Jan 2025: this doesn't work as expected as Github Pages are static)
 
 This is a dataset with world indicators. I combined it with a subregions file because it would be more interesting than just using the continents as filters.
 
-I wanted to check how some of my preconceptions would hold, such as the relation between education and fertility rates or overall access to health and life expectancy.
+This post was also initially to test embedding a Tableau Public dashboard here. This doesn't work -?- as Github Pages are static. You can still look at the dashboard by clicking the image below.
+
+In any case, I wanted to check how some of my preconceptions would hold up, e.g. the relation between education and fertility rates or overall access to health and life expectancy.
 
 [![Link to the Tableau Public dashboard](/assets/images/link-to-tableau-public-world.png)](https://public.tableau.com/views/WorldIndicators2023/world_2023?:language=sv-SE&:display_count=n&:origin=viz_share_link)
 
