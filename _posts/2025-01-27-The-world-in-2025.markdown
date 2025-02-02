@@ -12,4 +12,6 @@ I wanted to check how some of my preconceptions would hold, such as the relation
 
 [Link to the Tableau Public dashboard](https://public.tableau.com/views/WorldIndicators2023/world_2023?:language=sv-SE&:display_count=n&:origin=viz_share_link)
 
-And further analysis with pandas - This is pending until I figure out how to get includes folder :) 
+And further analysis with pandas:
+
+ <iframe src="/assets/notebooks/the-world-2023-from-wp.html" width="100%" height="600px"></iframe> 
