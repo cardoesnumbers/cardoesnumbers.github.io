@@ -10,4 +10,7 @@ In short, Norway has been leading the way when it comes to EV sales and prioriti
 
 Here a quick exercise on understanding the development of the EV infrastructure in the Nordics.
 
-<iframe src="https://nbviewer.org/github/yourusername/yourrepo/blob/main/notebook.ipynb" width="100%" height="600px"></iframe>
+{% raw %}
+<iframe src="/assets/notebooks/IEA.html" width="100%" height="600px"></iframe>
+{% endraw %}
+
