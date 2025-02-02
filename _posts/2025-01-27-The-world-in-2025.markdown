@@ -4,13 +4,13 @@ title:  "The world in 2023"
 date:   2025-01-27 21:30:53 +0100
 categories: jekyll update
 ---
-A quick exercise to test embedding the resulting dashboard from Tableau Public on this website (Note from Jan 2025: this doesn't work as Github Pages are static)
+A quick exercise to test embedding the resulting dashboard from Tableau Public on this website (Note from Jan 2025: this doesn't work as expected as Github Pages are static)
 
-This is a dataset with world indicators. I combined it with a subregions file because I thought it would be more interesting than just using the continents as filters.
+This is a dataset with world indicators. I combined it with a subregions file because it would be more interesting than just using the continents as filters.
 
 I wanted to check how some of my preconceptions would hold, such as the relation between education and fertility rates or overall access to health and life expectancy.
 
-[Link to the Tableau Public dashboard](https://public.tableau.com/views/WorldIndicators2023/world_2023?:language=sv-SE&:display_count=n&:origin=viz_share_link)
+[![Link to the Tableau Public dashboard](assets/images/link-to-tableau-public-world.png)](https://public.tableau.com/views/WorldIndicators2023/world_2023?:language=sv-SE&:display_count=n&:origin=viz_share_link)
 
 And further analysis with pandas / [nbviewer backup here](https://nbviewer.org/github/cardoesnumbers/cardoesnumbers.github.io/blob/main/assets/notebooks/song_length.ipynb)
 
