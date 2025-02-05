@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Insomnia Drugs, 2022-2024"
+date:   2025-02-05
+---
+
+There are two datasets, one for the posts and one for the comments.
+
+The plan is to:
+  - Identify what are the most mentioned insomnia drugs in the subreddit
+  - What has the trends mentioned change through time
+  - Do a sensitivity analysis for each drug
