@@ -32,6 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-jupyter-notebook
+  - jekyll-remote-theme
 
 kramdown:
   input: GFM
