@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'EV in the Nordics, 2010-2021'
+title: 'What country has the most electric cars in the Nordics (2010-2021)?'
 date: '2023-08-02T20:04:29+00:00'
 ---
 
