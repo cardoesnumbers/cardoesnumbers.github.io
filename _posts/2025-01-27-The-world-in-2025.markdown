@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The world in 2023"
+title:  "Do more doctors mean higher life expectancy?"
 date:   2025-01-27 21:30:53 +0100
 categories: jekyll update
 ---
