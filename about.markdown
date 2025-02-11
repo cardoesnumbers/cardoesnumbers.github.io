@@ -12,10 +12,10 @@ I started learning Python a couple of years ago. It didn’t work out that first
 
 What I am learning right now:
 
-[Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) - Nov 2024 (103 of 235 lessons completed – L2 Regularization Ridge Regression)
+[Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) - Ongoing Feb 2025 (103 of 235 lessons completed – L2 Regularization Ridge Regression)
 
 Past courses:
 
-[Intermediate SQL for Data Analysis](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists) - Jan 2025
+[Intermediate SQL for Data Analysis](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists) - Completed Jan 2025
 
-[Python Data Analysis for Healthcare](https://www.linkedin.com/learning/python-data-analysis-for-healthcare) - May 2024
+[Python Data Analysis for Healthcare](https://www.linkedin.com/learning/python-data-analysis-for-healthcare) - Completed May 2024
