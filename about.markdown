@@ -6,8 +6,8 @@ permalink: /about/
 
 Hi, my name is Carlos.
 
-I started learning Python a couple of years ago. It didn’t work out that first time; I wasn’t sure about what I wanted to do with it. I moved on to SQL with data analysis in mind. It felt easier... at least querying data. Sometime in late 2022, I gave Python another try thinking also about data analysis, and this time it just clicked; I was captivated by Pandas right away and the possibility of predictive analytics.
 
+I created this site to try out Github Pages and to keep some of these data exploration exercises I have been working on somewhere. I do this in my free time when the kids are asleep.
 
 
 What I am learning right now:
@@ -19,3 +19,10 @@ Past courses:
 [Intermediate SQL for Data Analysis](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists) - Completed Jan 2025
 
 [Python Data Analysis for Healthcare](https://www.linkedin.com/learning/python-data-analysis-for-healthcare) - Completed May 2024
+
+
+
+A bit more.
+
+
+I have worked with data for most of the last decade, in some way unintentionally. I became curious about programming languages as the data I worked with grew larger and started to break my spreadsheets. I took an intro course on Python and was lost (negative) in its vastness. I didn't know what to do with all that. I moved on to SQL which back then seemed less complicated. That change came also with me thinking more about data analysis and predictive analytics and that made it easier. I gave Python another try  while on parental leave in early 2023 and this time is going better. The rise of AI/GPTs has also made programming more accessible and interesting to casual users like me, so, here we are.
