@@ -10,11 +10,11 @@ Hi, my name is Carlos.
 I created this site to try out Github Pages and to keep some of these data exploration exercises I have been working on somewhere. I do this in my free time when the kids are asleep.
 
 
-What I am learning right now:
+**What I am learning right now:**
 
 [Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) - Ongoing Feb 2025 (103 of 235 lessons completed – L2 Regularization Ridge Regression)
 
-Past courses:
+**Past courses:**
 
 [Intermediate SQL for Data Analysis](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists) - Completed Jan 2025
 
