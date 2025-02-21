@@ -7,7 +7,7 @@ permalink: /about/
 Hi, my name is Carlos.
 
 
-I created this site to try out Github Pages and to keep some of these data exploration exercises I have been working on somewhere. I do this in my free time when the kids are asleep.
+I created this site to try out Github Pages and to archive some of the data exploration exercises I have been practicing. 
 
 
 **What I am learning right now:**
@@ -23,7 +23,8 @@ I created this site to try out Github Pages and to keep some of these data explo
 
 
 
+
 A bit more.
 
 
-I have worked with data for most of the last decade, in some way unintentionally. I became curious about programming languages as the data I worked with grew larger and started to break my spreadsheets. I took an intro course on Python and was lost (negative) in its vastness. I didn't know what to do with all that. I moved on to SQL which back then seemed less complicated. That change came also with me thinking more about data analysis and predictive analytics and that made it easier. I gave Python another try  while on parental leave in early 2023 and this time is going better. The rise of AI/GPTs has also made programming more accessible and interesting to casual users like me, so, here we are.
+I have worked with data for most of the last decade, in some way unintentionally. I became curious about programming languages as the data I worked with grew larger and started to break my spreadsheets. I took an intro course on Python and was lost (negative) in its vastness. I didn't know what to do with all that. I moved on to SQL which back then seemed less complicated. That change also came with me thinking more about data analysis and predictive analytics, which made it easier. I gave Python another try  while on parental leave in early 2023 and this time is going better. The rise of AI/GPTs has also made programming more accessible and interesting to casual users like me, so, here we are.
