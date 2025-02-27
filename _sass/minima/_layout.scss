@@ -204,7 +204,8 @@
 
 .post-link {
   display: block;
-  @include relative-font-size(1.5);
+  @include relative-font-size(2);
+  font-weight: 600; // This is a link to a post, so it should be bold
 }
 
 
