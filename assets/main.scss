@@ -3,3 +3,8 @@
 ---
 
 @import "minima";
+
+// Apply Google Font to post links
+a.post-link {
+    font-family: 'Zilla Slab Highlight', serif;
+}
