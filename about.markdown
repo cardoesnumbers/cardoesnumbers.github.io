@@ -12,7 +12,7 @@ I created this site to try out Github Pages and to archive some of the data expl
 
 **What I am learning right now:**
 
-[Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) - Ongoing Feb 2025 (103 of 235 lessons completed – L2 Regularization Ridge Regression)
+[Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) - Ongoing April 2025 (120 of 235 lessons completed – Linear Regression Project)
 
 **Past courses:**
 
